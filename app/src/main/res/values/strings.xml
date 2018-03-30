@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LetzFairApp</string>
+    <string name="readyfor">Ready for the ultimate fair experience?</string>
+    <string name="login">Login</string>
+    <string name="notregister">Not registered yet?</string>
+    <string name="registernow">Register now</string>
+    <string name="or">or</string>
+    <string name="skip">Skip Registration</string>
+    <string name="action_settings">action_settings</string>
+    <string name="action_favorite">action_favorite</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_toolbar">Toolbar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alessandro Del Piero</string>
+    <string name="nav_header_subtitle">Capitano</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_letz_fair__home">LetzFair_Home</string>
+</resources>
