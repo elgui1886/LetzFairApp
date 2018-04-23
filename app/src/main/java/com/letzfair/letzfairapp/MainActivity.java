@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void SkipLoginClick(View view)
     {
-        Intent intent = new Intent(this, LetzFair_Home.class);
+        Intent intent = new Intent(this, NavigationActivity.class);
         startActivity(intent);
     }
 }

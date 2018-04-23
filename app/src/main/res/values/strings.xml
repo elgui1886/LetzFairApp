@@ -19,4 +19,5 @@
     <string name="nav_header_subtitle">Capitano</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="title_activity_letz_fair__home">LetzFair_Home</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
 </resources>

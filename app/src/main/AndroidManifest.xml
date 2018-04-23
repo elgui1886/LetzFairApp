@@ -17,8 +17,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LetzFair_Home"
-            android:label="@string/title_activity_letz_fair__home"
+            android:name=".NavigationActivity"
+            android:label="@string/title_activity_navigation"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
     </application>
 
