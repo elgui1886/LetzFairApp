@@ -39,7 +39,7 @@ xmlns:android="http://schemas.android.com/apk/res/android" >
     android:drawable="@drawable/ic_photo_filter_black_24dp"
     android:width="50dp"
     android:height="50dp"
-    android:left="25dp"
+    android:left="30dp"
     android:top="5dp"
     />
 

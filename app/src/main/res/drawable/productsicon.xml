@@ -41,7 +41,7 @@
         android:drawable="@drawable/ic_add_shopping_cart_black_24dp"
         android:width="50dp"
         android:height="50dp"
-        android:left="35dp"
+        android:left="30dp"
         android:top="5dp"
 />
 
