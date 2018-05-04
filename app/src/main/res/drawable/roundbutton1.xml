@@ -10,10 +10,7 @@
 
             <gradient
                 android:angle="45"
-                android:centerX="float"
-                android:centerY="float"
                 android:endColor="#01f1fa"
-                android:gradientRadius="integer"
                 android:startColor="#0189ff"
                 android:type="linear" />
 
@@ -41,6 +38,9 @@
         </shape>
     </item>
 
-    <item android:drawable="@drawable/ic_directions_walk_black_24dp"/>
+    <item
+        android:drawable="@drawable/ic_directions_walk_black_24dp"
+        android:width="100dp"
+        />
 
 </layer-list>

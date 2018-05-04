@@ -6,15 +6,12 @@
             android:shape="rectangle">
 
             <corners
-                android:bottomRightRadius="10dp"
-                android:radius="40dp" />
+                android:radius="10dp" />
+
 
             <gradient
                 android:angle="45"
-                android:centerX="float"
-                android:centerY="float"
                 android:endColor="#01f1fa"
-                android:gradientRadius="integer"
                 android:startColor="#0189ff"
                 android:type="linear" />
 
@@ -23,28 +20,29 @@
                 android:color="#FFFFFF" />-->
 
             <size
-                android:width="82dp"
-                android:height="82dp" />
+                android:width="120dp"
+                android:height="54dp" />
 
             <!--Use android:dashWidth="2dp" and android:dashGap="2dp"
             to add dashes to your stroke-->
-            <stroke
+           <stroke
                 android:width="2dp"
                 android:color="#FFFFFF" />
 
             <!--If you want to add padding-->
-            <!-- <padding
-                 android:left="10dp"
-                 android:top="20dp"
-                 android:right="40dp"
-                 android:bottom="8dp" />-->
+            <!--If you want to add padding-->
+            <padding
+                android:bottom="2dp" />
 
         </shape>
     </item>
 
     <item
         android:drawable="@drawable/ic_add_shopping_cart_black_24dp"
-        android:left="8dp"
-        android:top="10dp" />
+        android:width="50dp"
+        android:height="50dp"
+        android:left="35dp"
+        android:top="5dp"
+/>
 
 </layer-list>
